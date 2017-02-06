@@ -1,5 +1,3 @@
-# React-Redux Alarm Adder
-
 ## Installation
 
 ```bash
